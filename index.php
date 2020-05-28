@@ -6,7 +6,7 @@
     echo "kha"
     ?>
         <h1>
-        boton <?php funcion()?>
+        botones <?php funcion()?>
         </h1>
     <?php
     echo "pp"

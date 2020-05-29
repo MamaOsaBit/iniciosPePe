@@ -2,6 +2,7 @@
 <head>
  probando
     
+Hola, esto es un texto de prueba.
 </head>
 <body>
 <?php
@@ -14,7 +15,9 @@
     echo "pp"
     ?>
 
+
 asdasdasd
+Ok, este es otro texto de prueba
 
 </body>
 </html>

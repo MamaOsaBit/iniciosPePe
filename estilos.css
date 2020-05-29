@@ -1,0 +1,32 @@
+.contenido{
+    width: 100%;
+    height: 600px;
+}
+.header{
+    width: 100%;
+    height: 200px;
+}
+.logo {
+    position: absolute;
+    width: 300px;
+}
+.menus{
+    position: relative;
+    float: right;
+    width: 600px;
+}
+#lista1 {
+    font-family:Arial;
+    font-weight:bold;
+    font-size:20px;
+}
+.separador {
+    color:gray;
+}
+#lista1 li {
+     display:inline-block;
+     padding-left:3px;
+     padding-right:3px;
+
+}
+

@@ -1,8 +1,5 @@
 <html>
 <head>
- probando
-    
-Hola, esto es un texto de prueba.
 </head>
 <body>
 <?php

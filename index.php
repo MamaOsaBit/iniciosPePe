@@ -1,7 +1,5 @@
 <html>
 <head>
- probando
-    
 Hola, esto es un texto de prueba.
 </head>
 <body>
@@ -15,8 +13,6 @@ Hola, esto es un texto de prueba.
     echo "pp"
     ?>
 
-
-asdasdasd
 Ok, este es otro texto de prueba
 
 </body>

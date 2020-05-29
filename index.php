@@ -12,9 +12,7 @@
     echo "pp"
     ?>
 
-
-asdasdasd
-Ok, este es otro texto de prueba
+Texto 2
 
 </body>
 </html>
